@@ -1,5 +1,5 @@
 # Examination-Sudoku
-Checking the correctness of a Sudoku solution
+Проверка правильности решения судоку
 
  Язык: ***JavaScript***
 
